@@ -42,7 +42,11 @@
 
 • 2 buttons (διακόπτες) s1, s2
 
-• 1 piezo buzzer 
+• 1 piezo buzzer
+
+• καλώδια
+
+
 
 
 **Λογισμικό**
