@@ -111,13 +111,19 @@ https://www.youtube.com/watch?time_continue=313&v=5YDsX6zZ3b4
     
 Για όσους χρησιμοποιούν τις πλακέτες Leonardo και Mega 2560 , θα χρειασθεί να μεταφορτώσουν το FirmataPlus32u4 αντί για το FirmataPlus.
 Το FirmataPlus διανέμεται ως αρχείο zip. Αν έχετε κατεβάσει την διανομή pyamta_aio από το Github και έχετε εξάγει τα αρχεία, θα βρείτε ένα αρχείο libraries.zip στον κατάλογο του FirmataPlus. Μπορείτε επίσης να το κατεβάσετε απευθείας από 
-https://github.com/MrYsLab/pymata-aio/blob/master/FirmataPlus/libraries.zip . 
+https://github.com/MrYsLab/pymata-aio/blob/master/FirmataPlus/libraries.zip. 
+
 Κάντε κλικ στο κουμπί **"view raw"** για λήψη.
+
 Ανοίξτε το IDE του Arduino και επιλέξτε Αρχείο / Προτιμήσεις για να καθορίσετε τη θέση του προγράμματος.
-![Github Robuino](/images/2.png)
+
+![Github Robuino](/images/2.jpg)
+
 Κλείστε το IDE του Arduino και εξαγάγετε το αρχείο **libraries.zip** στον κατάλογο τοποθεσίας **sketchbook**.
 Ανοίξτε ξανά το IDE του Arduino, επιλέξτε **Αρχείο / Παραδείγματα / FirmataPlus / FiramataPlus** και μεταφορτώστε το στο Arduino.
-![Github Robuino](/images/3.png)
+
+![Github Robuino](/images/3.jpg)
+
 Εάν βλέπετε προειδοποιήσεις κατά την φόρτωση του **FirmataPlus** στο IDE του Arduino, βεβαιωθείτε ότι έχετε ρυθμίσει το επίπεδο προειδοποιήσεων μεταγλωττιστή στο "Default" στην οθόνη Αρχείο / Προτιμήσεις. Εάν εξακολουθείτε να βλέπετε τις προειδοποιήσεις, πάρτε το τελευταίο αντίγραφο του libraries.zip και εγκαταστήστε το ξανά.
 
 
