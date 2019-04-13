@@ -462,18 +462,6 @@ To Arduino έχει όπως είδαμε, 6 αναλογικές εισόδου
 
 ![Github Robuino](/images/23b.png)
 
-Υλικά που θα χρειαστούμε:
-
-    • 1 Arduino UNO
-
-    • 1 Breadboard
-
-    • 1 ποτενσιόμετρο
-
-    • καλώδια
-    
-**Το κύκλωμα σε breadboard**
-
 ![Github Robuino](/images/23e.png)
 
 Το σενάριο του αεροπλάνου:
