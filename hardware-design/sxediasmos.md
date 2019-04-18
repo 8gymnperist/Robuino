@@ -22,11 +22,11 @@
 
 **Εικόνες από την κατασκευή του πρωτοτύπου κυκλώματος (με χρήση breadboard και Arduino uno)**
 
-![Github Robuino](/images/build-pr-1.JPG)      ![Github Robuino](/images/build-pr-2.JPG)
+![Github Robuino](/images/build-pr-1.JPG)  ![Github Robuino](/images/build-pr-2.JPG)
 
-![Github Robuino](/images/build-pr-4.JPG)      ![Github Robuino](/images/build-pr-5.JPG)
+![Github Robuino](/images/build-pr-4.JPG)  ![Github Robuino](/images/build-pr-5.JPG)
 
-![Github Robuino](/images/build-pr-6.JPG)      ![Github Robuino](/images/build-prot-teliko.png)
+![Github Robuino](/images/build-pr-6.JPG)  ![Github Robuino](/images/build-prot-teliko.png)
 
 **Βίντεο για τον έλεγχο κυκλώματος και λογισμικού**
 
@@ -36,9 +36,11 @@
 
 **Κατασκευή χειριστηρίου με διάτρητη πλακέτα**
 
-![Github Robuino](/images/pcb-1.JPG)        ![Github Robuino](/images/pcb-2.JPG)
+![Github Robuino](/images/pcb-1.JPG)  ![Github Robuino](/images/pcb-2.JPG)
 
-![Github Robuino](/images/pcb-3.JPG)        ![Github Robuino](/images/pcb-5.JPG)
+![Github Robuino](/images/pcb-3.JPG)  ![Github Robuino](/images/pcb-5.JPG)
+
+![Github Robuino](/images/pcb-6.JPG)  ![Github Robuino](/images/pcb-7.JPG)
 
 
 
