@@ -42,6 +42,9 @@
 
 ![Github Robuino](/images/pcb-6.JPG)  ![Github Robuino](/images/pcb-7.JPG)
 
+**Βίντεο**
+![Github Robuino](/video/video-build-j.mp4)
+
 
 
 
