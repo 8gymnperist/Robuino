@@ -42,8 +42,9 @@
 
 ![Github Robuino](/images/pcb-6.JPG)  ![Github Robuino](/images/pcb-7.JPG)
 
-**Βίντεο**
-![Github Robuino](/video/video-build-j.mp4)
+**Βίντεο. Κατασκευή χειριστηρίου με διάτρητη πλακέτα**
+
+Δείτε το σχετικό βίντεο ( https://youtu.be/ypIJa9_6-cQ ) για την κατασκευή του χειριστηρίου με διάτρητη πλακέτα και την τοποθέτησή του σε κατάλληλο κουτί.
 
 
 
