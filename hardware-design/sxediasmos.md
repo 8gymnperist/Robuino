@@ -55,14 +55,16 @@ To διακόπτη (S1) τον έχουμε συνδέσει στην ψηφι�
 
 ![Github Robuino](/images/pcb-6.JPG)  ![Github Robuino](/images/pcb-7.JPG)
 
+![Github Robuino](/images/pcb-8.JPG)  ![Github Robuino](/images/pcb-9.JPG)
+
+![Github Robuino](/images/pcb-10.JPG)  ![Github Robuino](/images/pcb-11.JPG)
+
+![Github Robuino](/images/pcb-12.JPG)  ![Github Robuino](/images/pcb-14.JPG)
+
+
 **Βίντεο. Κατασκευή χειριστηρίου με διάτρητη πλακέτα**
 
 Δείτε το σχετικό βίντεο ( https://youtu.be/ypIJa9_6-cQ ) για την κατασκευή του χειριστηρίου με διάτρητη πλακέτα και την τοποθέτησή του σε κατάλληλο κουτί.
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="">
-    <source src="https://youtu.be/ypIJa9_6-cQ" type="video/mp4">
-  </video>
-</figure>
 
 
