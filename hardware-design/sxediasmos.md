@@ -59,10 +59,9 @@ To διακόπτη (S1) τον έχουμε συνδέσει στην ψηφι�
 
 Δείτε το σχετικό βίντεο ( https://youtu.be/ypIJa9_6-cQ ) για την κατασκευή του χειριστηρίου με διάτρητη πλακέτα και την τοποθέτησή του σε κατάλληλο κουτί.
 
-
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="![Github Robuino](/images/pcb-5.JPG)">
-    <source src="![Github Robuino] (/video/video-build-j.mp4)" type="video/mp4">
+  <video controls="true" allowfullscreen="true" poster="https://github.com/8gymnperist/Robuino/blob/master/images/circuit.png">
+    <source src="https://github.com/8gymnperist/Robuino/blob/master/video/video-build-j.mp4" type="video/mp4">
   </video>
 </figure>
 
