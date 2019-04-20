@@ -61,7 +61,7 @@ To διακόπτη (S1) τον έχουμε συνδέσει στην ψηφι�
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="">
-    <source src="![Github Robuino](/video/video-build-j.mp4)" type="video/mp4">
+    <source src="https://youtu.be/ypIJa9_6-cQ" type="video/mp4">
   </video>
 </figure>
 
