@@ -76,5 +76,6 @@ To διακόπτη (S1) τον έχουμε συνδέσει στην ψηφι�
 
 Δείτε το σχετικό βίντεο ( https://youtu.be/ypIJa9_6-cQ ) για την κατασκευή του χειριστηρίου με διάτρητη πλακέτα και την τοποθέτησή του σε κατάλληλο κουτί.
 
+https://drive.google.com/file/d/1WC1EpmGAygGCiTjIm5gPGhKAHugTn4Rc/view?usp=sharing 
 
 
