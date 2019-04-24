@@ -55,6 +55,8 @@ To διακόπτη (S1) τον έχουμε συνδέσει στην ψηφι�
 
 ![Github Robuino](/images/52.png)
 
+Δείτε το βίντεο με την ανάλυση του σεναρίου του εχθρικού αεροπλάνου: https://drive.google.com/file/d/1u9XqAcyGiGidKGLngo6-MX2Ptql06Zvg/view?usp=sharing
+
 **Το σενάριο του αντικειμένου “Heart Face1”:**
 
 ![Github Robuino](/images/53.png)
@@ -74,3 +76,8 @@ To διακόπτη (S1) τον έχουμε συνδέσει στην ψηφι�
 **Τα σενάρια του σκηνικού:**
 
 ![Github Robuino](/images/58.png)
+
+**Βίντεο για την παρουσίαση και τον έλεγχο του παιχνιδιού και του χειριστηρίου σε διάφορα λειτουργικά συστήματα: α) Windows 7, β) Raspbian για Rasoberry pi 3 και γ) linux Ubuntu Mate 18.04.**
+
+https://drive.google.com/file/d/14k0kBwG6YBduTImlj3yZ-IMPIfs6TW3Q/view?usp=sharing 
+

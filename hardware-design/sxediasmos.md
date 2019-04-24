@@ -74,11 +74,15 @@ https://drive.google.com/file/d/1VMEDgMzQeXfBxuYJhJ0yQAQAG7ydDfGr/view?usp=shari
 ![Github Robuino](/images/pcb-12.JPG)  ![Github Robuino](/images/pcb-14.JPG)
 
 
-**Βίντεο. Κατασκευή χειριστηρίου με διάτρητη πλακέτα**
+**1 -- Βίντεο. Κατασκευή χειριστηρίου με διάτρητη πλακέτα**
 
+Δείτε το σχετικό βίντεο ( https://drive.google.com/file/d/1WC1EpmGAygGCiTjIm5gPGhKAHugTn4Rc/view?usp=sharing ) για την κατασκευή του χειριστηρίου με διάτρητη πλακέτα και την τοποθέτησή του σε κατάλληλο κουτί.
 
-Δείτε το σχετικό βίντεο ( https://youtu.be/ypIJa9_6-cQ ) για την κατασκευή του χειριστηρίου με διάτρητη πλακέτα και την τοποθέτησή του σε κατάλληλο κουτί.
+**2 -- Παρουσίαση του χειριστηρίου (βίντεο):** https://drive.google.com/file/d/1byFS6r9bHdntyOD2-r_eUkFxp5H1IJEG/view?usp=sharing
 
-https://drive.google.com/file/d/1WC1EpmGAygGCiTjIm5gPGhKAHugTn4Rc/view?usp=sharing 
+**3 -- Βίντεο για την παρουσίαση και τον έλεγχο του παιχνιδιού και του χειριστηρίου σε διάφορα λειτουργικά συστήματα: α) Windows 7, β) Raspbian για Rasoberry pi 3 και γ) linux Ubuntu Mate 18.04.**
+
+https://drive.google.com/file/d/14k0kBwG6YBduTImlj3yZ-IMPIfs6TW3Q/view?usp=sharing 
+ 
 
 
